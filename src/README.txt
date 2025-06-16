@@ -7,7 +7,7 @@ Mas, ClienteRMI nao pode invocar novamente ServidorImpl (loop)
 (ClienteRMI agora eh usado apenas pelo Peer.java, que eh o peer.) 
 
 TODO: Adicionar 1 (uma) das seguintes funcionalidades:
-1) Interface grafica
+1) Interface grafica (FEITO)
 2) Implementar unbind no Peer.java (FEITO)
-3) Peer.java deve ser capaz de escolher o peer.
+3) Peer.java deve ser capaz de escolher o peer. (FEITO)
 4) Pelo menos 1 (um) novo peer deve ser adicionado no enum PeerLista. (FEITO)
